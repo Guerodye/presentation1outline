@@ -1,4 +1,4 @@
-#Code4Real Demo Day Outline  
+#Code4Real Demo Day Outline
 ##Members
 * Guerodye Joseph
 * Lady Lawrence
@@ -15,10 +15,10 @@ Duplication of the World's first website
   * Process
     * PHPStorm
   * Result+Demo 
-1. Hypermedia, executive summary  ,Mailing lists , Policy , W3 news , Frequently Asked Questions . (Guerodye Joseph)
-2. What's out there?  subjects , W3 servers, W3 servers, etc. Help, Software Products,  Line Mode Viola. (Lady Lawrence)
-3. NeXTStep , Servers , Tools , Mail robot , Library, Technical (Jasmine Bien-Aime)
-4. Bibliography, People. History, How can I help,  Getting code, anonymous FTP/ 
+    * Hypermedia, executive summary  ,Mailing lists , Policy , W3 news , Frequently Asked Questions . (Guerodye Joseph)
+    * What's out there?  subjects , W3 servers, W3 servers, etc. Help, Software Products,  Line Mode Viola. (Lady Lawrence)
+    * NeXTStep , Servers , Tools , Mail robot , Library, Technical (Jasmine Bien-Aime)
+    * Bibliography, People. History, How can I help,  Getting code, anonymous FTP/ 
    
 
 
