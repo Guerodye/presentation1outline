@@ -1,10 +1,10 @@
-#Code4Real Demo Day Outline
+#Code4Real Demo Day Outline  
 ##Members
 * Guerodye Joseph
 * Lady Lawrence
 * Jasmine Bien-Aime
 * Niadre Zouzoua
-* ###Problem
+* ###Problem  
 Duplication of the World's first website
 * ###Solution
   * Method  
